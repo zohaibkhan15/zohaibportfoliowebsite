@@ -1,5 +1,5 @@
 import React from "react";
-import mypicture from "../../assets/zp.png";
+import mypicture from "../../assets/zohaibimage.jpeg";
 import "./herosection.css";
 import { FaCss3, FaHtml5, FaJs, FaReact } from "react-icons/fa6";
 
