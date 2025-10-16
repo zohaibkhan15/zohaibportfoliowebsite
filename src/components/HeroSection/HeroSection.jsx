@@ -7,7 +7,7 @@ const HeroSection = () => {
   return (
     <div className="herosection">
       <div className="herosection-leftdiv">
-        <h1>Muhammad Zohaib</h1>
+        <h1>Zohaib Khan</h1>
         <span>Frontend Developer</span>
         <p>
           Hello, a frontend developer based in Karachi, Pakistan. Looking
