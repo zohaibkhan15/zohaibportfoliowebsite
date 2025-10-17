@@ -23,7 +23,7 @@ const Header = () => {
 
   return (
     <header className="header">
-      <h1>NSFB11</h1>
+      <h1>Zohaib Khan</h1>
 
       <ul className="menu-items">
         {menuItems.map((item, index) => (
@@ -36,4 +36,5 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Header;Const
+
