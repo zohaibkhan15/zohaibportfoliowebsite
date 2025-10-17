@@ -15,18 +15,21 @@ const AboutMe = () => {
       <div className="aboutme-right">
         <h1>About Me</h1>
 
-        <p>A dedicated Frontend Developer based in Karachi, Pakistan. 📍</p>
+        <p>I am a passionate Front-End Developer specializing in React.js. 📍</p>
 
         <p>
           {" "}
-          As a Frontend Developer, I possess an impressive arsenal of skills in
-          HTML5 , CSS3, JavaScript, ReactJS. I excel in designing and
-          maintaining responsive websites that offer a smooth user experience.
-          My expertise lies in craftingdynamic, engaging interfaces through
-          writing clean and optimized code and utilizing cutting-edge
-          development tools and techniques. I am also a team playerwho thrives
-          in collaborating with cross-functional teams to produce outstanding
-          web applications.
+            I have completed my Web Development training from Nayee Subha Foundation,
+            where I learned to design and build modern, responsive web applications using 
+            React.js, JavaScript (ES6+), HTML5, and CSS3. My focus is on creating clean, 
+            user-friendly interfaces with reusable components, API integration, and
+            smooth performance. I enjoy working on real-world projects, exploring new 
+            frameworks, and continuously improving my development skills. Along with
+            my technical background, I hold strong academic qualifications, including 
+            a Master’s degree in Education. My education has helped me develop analytical
+            thinking, communication, and problem-solving skills that support my growth as
+            a developer. I am always eager to collaborate on creative projects that combine
+            design, interactivity, and technology.
         </p>
       </div>
     </div>
