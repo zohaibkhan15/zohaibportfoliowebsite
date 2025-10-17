@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Education.css"
 
- Education = () => {
+  const Education = () => {
     return ( 
 
         <div>
