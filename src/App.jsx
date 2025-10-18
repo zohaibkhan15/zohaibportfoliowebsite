@@ -1,18 +1,20 @@
-import React from "react";
-import Header from "./components/Header/Header";
-import HeroSection from "./components/HeroSection/HeroSection";
-import AboutMe from "./components/AboutMe/AboutMe";
-import Education from "./components/Education/Education";
+import React from 'react'
+import HeroSection from './components/HeroSection/HeroSection'
+import Header from './components/Header/Header'
+import AboutMe from './components/AboutMe/AboutMe'
+import Education from './components/Education/Education'
 
 const App = () => {
   return (
-    <>
-      <Header />
+    <div>
       <HeroSection />
+      <Header />
       <AboutMe />
       <Education />
-    </>
-  );
-};
 
-export default App;
+
+    </div>
+  )
+}
+
+export default App
